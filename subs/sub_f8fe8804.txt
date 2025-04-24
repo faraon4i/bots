@@ -1,8 +1,8 @@
-vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%80Test%20%7C%2059.81%20GB%20/%20%E2%88%9E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfM2o5M0FMdmVwVnU4WGhxLXZ1NGpB@45.153.71.44:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
+vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%80Test%20%7C%2067.97%20GB%20/%20%E2%88%9E
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfM2o5M0FMdmVwVnU4WGhxLXZ1NGpB@80.90.187.129:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfM2o5M0FMdmVwVnU4WGhxLXZ1NGpB@217.198.6.229:448#%F0%9F%9A%80%20SS%202%20%F0%9F%87%B7%F0%9F%87%BA
 vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@199.36.158.81:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%201
-vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@159.242.243.9:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%202
+vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@159.242.243.11:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%202
 vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@141.193.213.20:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%201
 vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@108.162.193.33:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%202
 vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@184.168.47.91:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%203
