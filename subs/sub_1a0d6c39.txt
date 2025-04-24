@@ -1,8 +1,8 @@
 vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%802205%20%7C%200%20B%20/%20%E2%88%9E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVFI2V0pKeER4VlBGbU5PRy1kTk13@45.153.71.44:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVFI2V0pKeER4VlBGbU5PRy1kTk13@217.198.6.229:448#%F0%9F%9A%80%20SS%202%20%F0%9F%87%B7%F0%9F%87%BA
-vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@185.199.110.28:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%201
+vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@199.36.158.81:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%201
 vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@159.242.243.9:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%202
-vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@147.185.161.26:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%201
+vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@89.110.120.51:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%201
 vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@184.168.47.38:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%202
 vless://3c605ff1-b78d-47d1-b1ef-6c3055e586bb@45.67.215.91:443?security=tls&type=ws&headerType=&path=%2F&host=emmail.java-program.online&sni=emmail.java-program.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&fragment=3%2C1%2Ctlshello#%E2%9C%88%20CF%203
