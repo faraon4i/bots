@@ -1,5 +1,5 @@
-vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%80Test%20%7C%2076.89%20GB%20/%20%E2%88%9E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfM2o5M0FMdmVwVnU4WGhxLXZ1NGpB@80.90.187.129:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
+vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%80Test%20%7C%2077.55%20GB%20/%20%E2%88%9E
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfM2o5M0FMdmVwVnU4WGhxLXZ1NGpB@89.169.2.88:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfM2o5M0FMdmVwVnU4WGhxLXZ1NGpB@217.198.6.229:448#%F0%9F%9A%80%20SS%202%20%F0%9F%87%B7%F0%9F%87%BA
 vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@199.36.158.81:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%201
 vless://907aaaef-1a0a-4c39-b64e-f5161fc19641@159.242.243.11:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%202
