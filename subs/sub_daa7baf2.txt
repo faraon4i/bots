@@ -1,4 +1,4 @@
-vless://1e8e33d7-6df6-45ac-90bc-5ecb870f27a5@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%803105%20%7C%202.89%20GB%20/%20%E2%88%9E
+vless://1e8e33d7-6df6-45ac-90bc-5ecb870f27a5@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%803105%20%7C%203.19%20GB%20/%20%E2%88%9E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVN0pzSjB6S3p4R2xneTFYNVY2ZTd3@89.169.0.243:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
 vless://1e8e33d7-6df6-45ac-90bc-5ecb870f27a5@199.36.158.82:80?security=none&type=xhttp&headerType=&path=%2F&host=faraon-group.com#%F0%9F%9A%80%20FT%201
 vless://1e8e33d7-6df6-45ac-90bc-5ecb870f27a5@151.101.3.6:443?security=tls&type=xhttp&headerType=&path=%2F&host=faraon-group.com&sni=faraon-group.com&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%9A%80%20FT%202
