@@ -1,4 +1,4 @@
-vless://382a4fc4-1b63-40e5-8221-e440c0f332f8@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%800805%20%7C%204.28%20GB%20/%20%E2%88%9E
+vless://382a4fc4-1b63-40e5-8221-e440c0f332f8@islanok:80?security=reality&type=tcp&headerType=&path=&host=&sni=test.test&fp=chrome&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&sid=#%F0%9F%9A%800805%20%7C%204.36%20GB%20/%20%E2%88%9E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoalphRl9QMjhNWEJFakpBeWZfamFR@176.124.210.51:448#%F0%9F%9A%80%20SS%201%20%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoalphRl9QMjhNWEJFakpBeWZfamFR@176.124.210.126:448#%F0%9F%9A%80%20SS%202%20%F0%9F%87%B7%F0%9F%87%BA
 vless://382a4fc4-1b63-40e5-8221-e440c0f332f8@199.36.158.84:80?security=none&type=xhttp&headerType=&path=%2F&host=sarks.com#%F0%9F%9A%80%20FT%201
